@@ -1,0 +1,7 @@
+Site tested: https://juice-shop.herokuapp.com
+Tool planned: OWASP ZAP
+Date: 2025-11-11
+Tool installed and opened: OWASP ZAP successfully running
+Scanned target: https://juice-shop.herokuapp.com
+Scan completed in ZAP.
+Found alerts: (number of alerts shown)
