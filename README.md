@@ -116,5 +116,5 @@ This task successfully demonstrated the *web vulnerability assessment process* a
 
 ---
 
-👨‍💻 *Analyst:* Aman Mali  
+👨‍💻 *Analyst:* Shaun Dsouza 
 *Internship:* Future Interns – Cybersecurity (2025)
